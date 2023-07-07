@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/advice-app-react/static/css/main.5748d32b.css",
+    "main.js": "/advice-app-react/static/js/main.bb0f0a7f.js",
+    "static/media/city.jpg": "/advice-app-react/static/media/city.ec147563dae5e2457e82.jpg",
+    "index.html": "/advice-app-react/index.html",
+    "main.5748d32b.css.map": "/advice-app-react/static/css/main.5748d32b.css.map",
+    "main.bb0f0a7f.js.map": "/advice-app-react/static/js/main.bb0f0a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5748d32b.css",
+    "static/js/main.bb0f0a7f.js"
+  ]
+}
